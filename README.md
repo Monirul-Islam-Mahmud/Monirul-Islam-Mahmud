@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/monirul-islam-mahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monirul-islam-mahmud/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17391506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17391506" height="30" width="40" /></a>
 <a href="https://instagram.com/__mahmud_shah__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mahmud_shah__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCBA8XqF1ob-zVZe9btuTWzA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucba8xqf1ob-zvze9btutwza" height="30" width="40" /></a>
+<a href="www.youtube.com/channel/UCBA8XqF1ob-zVZe9btuTWzA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucba8xqf1ob-zvze9btutwza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
