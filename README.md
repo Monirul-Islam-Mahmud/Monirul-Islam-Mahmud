@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mahmudislam2025@gmail.com**
 
-- 📄 Know about my experiences [https://monirul-islam-mahmud.github.io/personal-portfolio](https://monirul-islam-mahmud.github.io/personal-portfolio)
+- 📄 Know about my experiences [https://monirul-portfolio.netlify.app](https://monirul-portfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
