@@ -1,19 +1,19 @@
 ![logo](https://github.com/Monirul-Islam-Mahmud/Monirul-Islam-Mahmud/blob/main/Monirul-Banner.png)
 <h1 align="center">Greetings 👋, I'm Monirul Islam</h1>
-<h3 align="center">A passionate Web Developer & Data Scientist</h3>
+<h3 align="center">A passionate Web Developer & Researcher</h3>
 <br><br>
 <img align="right" width="430" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <a href="https://twitter.com/mahmud_monirul" target="blank"><img src="https://img.shields.io/twitter/follow/mahmud_monirul?logo=twitter&style=for-the-badge" alt="mahmud_monirul" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Research**
 
-- 🌱 I’m currently learning **Machine Learning & Data Science**
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Monirul-Islam-Mahmud](https://github.com/Monirul-Islam-Mahmud)
 
 - 💬 Ask me about **Php, Python, Django**
 
-- 📫 How to reach me **mahmudislam2025@gmail.com**
+- 📫 Reach me **mahmudislam2025@gmail.com**
 
 - 📄 Know about my experiences - <br> [https://monirul-portfolio.netlify.app](https://monirul-portfolio.netlify.app)
 
