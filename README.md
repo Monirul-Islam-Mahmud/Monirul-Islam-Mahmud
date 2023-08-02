@@ -15,9 +15,9 @@
 
 - 📫 Reach me **mahmudislam2025@gmail.com**
 
-- 📄 Know about my experiences - <br> [https://being-monirul.netlify.app](www.being-monirul.com)
+- 📄 Know about my experiences - <br> [www.being-monirul.com](https://being-monirul.netlify.app)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/mahmud_monirul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmud_monirul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/monirul-islam-mahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monirul-islam-mahmud/" height="30" width="40" /></a>
